@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: nagirnyak-stepan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236496
+bundleId: 1080004
+url: https://nagirnyak-stepan.shinyapps.io/Lab6/
+when: 1510874068.16544
+asMultiple: FALSE
+asStatic: FALSE
